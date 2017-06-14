@@ -1,6 +1,8 @@
 # S3ToLoggly
 A Node.js AWS Lambda script that send S3 logs to Loggly
 
+**Note:** This script has been deprecated in favor of Loggly's new built-in S3 ingestion feature. You can learn more in the [S3 ingestion docs](https://www.loggly.com/docs/s3-ingestion-auto/).
+
 ## More information about AWS Lambda and Loggly
   * http://aws.amazon.com/lambda/
   * https://www.loggly.com/
